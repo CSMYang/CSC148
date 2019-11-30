@@ -1,0 +1,7 @@
+{
+  "a2_restricted_battle_queue_unittest.py::RestrictedBattleQueueUnitTests::test_add_by_other_character": true,
+  "a2_restricted_battle_queue_unittest.py::RestrictedBattleQueueUnitTests::test_add_extra_copies": true,
+  "a2_restricted_battle_queue_unittest.py::RestrictedBattleQueueUnitTests::test_copy": true,
+  "a2_restricted_battle_queue_unittest.py::RestrictedBattleQueueUnitTests::test_copy_maintains_add_order": true,
+  "test_ex1.py::ExerciseTests::test_hidden": true
+}
